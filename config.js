@@ -71,7 +71,7 @@ var config = {
     defaultUnit: 'btc',
     subjectPrefix: '',
     pushServerUrl: 'https://fcm.googleapis.com/fcm',
-    authorizationKey: 'You_have_to_put_something_here',
+    authorizationKey: '',
   },
   fiatRateServiceOpts: {
     defaultProvider: 'BitPay',

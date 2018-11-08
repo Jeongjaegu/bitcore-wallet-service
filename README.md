@@ -22,9 +22,7 @@ More about BWS at https://blog.bitpay.com/announcing-the-bitcore-wallet-suite/
 # Getting Started
 ```
  git clone https://github.com/bitpay/bitcore-wallet-service.git
- cd bitcore-wallet-service
- npm install
- npm start
+ cd bitcore-wallet-service && npm start
 ```
 
 
